@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Snake Game",
+      "imageSrc": "projects/snake.png",
+      "description": "Creating  a Snake game using javascript is a friendly coding escapade. It offers an enjoyable experience while honing your game development skills.",
+      "skills": [" HTML", "CSS","JAVASCRIPT","Bootstrap"],
+    
+      "source": "https://github.com/PATILGAYATRIG/Snake-Game-javascript"
+    },
+    {
+      "title": "Text-utils Website",
+      "imageSrc": "projects/TextUtils.png",
+      "description": "Creating a TextUtils website using React.js involves building a web application that can perform various text-related operations.",
+      "skills": ["React", "HTML", "CSS", "JAVASCRIPT","Bootstrap"],
+      "demo": "https://textutils-reactapp-website.netlify.app",
+      "source": "https://github.com/PATILGAYATRIG/Textutils-React"
+    },
+    {
+      "title": "Currency-Converter",
+      "imageSrc": "projects/converter.png",
+      "description": "Creating a currency converter is a web app allowing users to input amounts, select currencies for conversion, and see the converted result based on exchange rates.",
+      "skills": ["HTML", "CSS", "Bootstrap"],
+    
+      "source": "https://github.com/PATILGAYATRIG/Currency-Converter"
+    }
+  ]
+  
